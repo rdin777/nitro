@@ -1,0 +1,8 @@
+Version: ba80222-modified, time: 2025-12-23T23:35:42Z
+Sample usage: ./target/bin/nitro [OPTIONS] 
+
+Options:
+  --help
+  --dev: Start a default L2-only dev chain
+
+Fatal configuration error: unknown flag: --dev.interval
